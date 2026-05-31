@@ -1,4 +1,4 @@
-# Hi, I'm Tharun Poosa! 👋
+# Hi, I'm Tharun! 👋
 
 I'm a Software Engineer focused on Full-Stack Development, Building Intelligent Developer Tools, and Open-Source Systems.
 
