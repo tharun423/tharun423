@@ -13,4 +13,4 @@ I'm a Software Engineer focused on Full-Stack Development, Building Intelligent 
 
 ### 🔗 Connect with Me
 * **GitHub:** [tharun423](https://github.com/tharun423)
-* **LinkedIn:** [Your LinkedIn Profile Link]
+
